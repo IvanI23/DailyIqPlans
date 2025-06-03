@@ -1,0 +1,22 @@
+DAY,SUBJECT,PERIOD,TIME,NOTE,COMPLETE,URL
+Yesterday,English,EVENING,3.1,Read Chapter 5,FALSE,null
+Yesterday,History,EVENING,3.2,Write Essay on WW2,FALSE,null
+Today,Art,EVENING,3.3,Paintings,FALSE,null
+Tomorrow,English,EVENING,3.1,Read Chapter 6,FALSE,null
+Yesterday,Art,EVENING,3.4,Sketch Portrait,FALSE,null
+Today,Music,EVENING,3.5,Practice Guitar,FALSE,null
+Tomorrow,Music,EVENING,3.6,Compose Song,FALSE,null
+Yesterday,Chemistry,AFTERNOON,2.5,Revise Periodic Table,FALSE,null
+Yesterday,Biology,EVENING,3.7,Study Cell Structure,FALSE,null
+Today,Biology,EVENING,3.8,Prepare for Test,TRUE,null
+Tomorrow,Chemistry,AFTERNOON,2.7,Study Chemical Bonds,FALSE,null
+Tomorrow,Biology,EVENING,3.9,Revise Genetics,FALSE,null
+Yesterday,Maths,MORNING,1.1,Revise Algebra,TRUE,null
+Yesterday,Science,AFTERNOON,2.3,Complete Chemistry HW,TRUE,null
+Yesterday,Geography,MORNING,1.4,Study Maps,TRUE,null
+Yesterday,Computer Science,AFTERNOON,2.2,Code Python Project,TRUE,null
+Today,Maths,MORNING,1.1,Revise Trigonometry,FALSE,null
+Today,Geography,AFTERNOON,2.4,Revise Climate Zones,TRUE,
+Today,Computer Science,MORNING,1.4,Debug Code,FALSE,null
+Today,English,MORNING,1,Read Macbeth,FALSE,null
+Today,Computer Science,MORNING,68,Make Web App,FALSE,null

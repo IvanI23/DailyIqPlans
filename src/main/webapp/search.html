@@ -1,0 +1,35 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Search</title>
+  <link rel="stylesheet" href="static/styles.css">
+
+  <style>
+    .search-input {
+      width: 250px;
+      height: 45px;
+      border-radius: 5px;
+      border: none;
+      outline: none;
+      align-items: center;
+    }
+  </style>
+
+</head>
+
+<body>
+<nav>
+  <a href="http://localhost:8080">Home</a>
+  <a href="search.html">Search</a>
+</nav>
+<div class="main">
+  <h1 class="title">Search</h1>
+  <form method="POST" action="/runsearch.html">
+    <input type="text" name="search" placeholder="Enter search keyword here" class="search-input"/><br><br>
+    <button type="submit" class="search-button">Search</button>
+  </form>
+</div>
+</body>
+</html>
